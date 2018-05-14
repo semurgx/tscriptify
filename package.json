@@ -1,0 +1,18 @@
+{
+    "name": "tscriptify",
+    "version": "0.1.0",
+    "description": "Browserify TypeScript transform",
+    "main": "index.js",
+    "repository": "github:semurgx/tscriptify",
+    "author": "Ilshat Safiullin",
+    "license": "MIT",
+    "keywords": [
+        "browserify",
+        "transform",
+        "typescript"
+    ],
+    "peerDependencies": {
+        "browserify": ">=10.0",
+        "typescript": ">=1.6"
+    }
+}
